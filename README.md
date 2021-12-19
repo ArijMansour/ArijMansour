@@ -13,9 +13,10 @@
 
 ### 1.1. Talk with me, I am kinda awesome 🙂 :
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+
 [<img align="left" alt="twitter | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+
 [<img align="left" alt="instagram | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-<br />
 
 
 
@@ -39,14 +40,10 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][linkedin]
 
-[<img align="left" alt="Angular" width="30px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor />][linkedin]
-
-[<img align="left" alt="Linux" width="30px" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor />][linkedin]
-
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
 <br />
-2. <br />
+1. <br />
 ---
 
 <details>
@@ -69,4 +66,3 @@
 
 [linkedin]: https://www.linkedin.com/in/arij-mansour/
 [instagram]:https://www.instagram.com/arijmansour1/
-[twitter]:
