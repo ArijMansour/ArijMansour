@@ -11,7 +11,7 @@
 - ⚡  I speak 4 languages ( English, French, Arabic, Russian).
 
 
-### 1.1. Talk with me, I am kinda awesome 🙂 :
+### 1.1. Chat with me, I am kinda cool 🙂 :
 
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
