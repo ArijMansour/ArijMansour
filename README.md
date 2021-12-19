@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning JavaScript and its Frameworks.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything.
-- ⚡  I speak 4 languages ( English, Frensh, Arabic, Russian).
+- ⚡  I speak 4 languages ( English, French, Arabic, Russian).
 
 
 ### 1.1. Talk with me, I am kinda awesome 🙂 :
