@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
 
-## 1. I'm a Software Engineer Intern, Developer, Geek!!
+## 1. I'm a Software Engineer Intern, AI passionate, Geek !!
 - ✍ You can find my achievements here.
 - 🌱 I’m currently learning JavaScript and its Frameworks.
 - 👯 I’m looking to collaborate on open source.
@@ -14,7 +14,6 @@
 ### 1.1. Talk with me, I am kinda awesome 🙂 :
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" alt="twitter | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
 [<img align="left" alt="instagram | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
