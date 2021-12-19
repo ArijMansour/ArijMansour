@@ -12,12 +12,13 @@
 
 
 ### 1.1. Talk with me, I am kinda awesome 🙂 :
+<br>
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 
 [<img align="left" alt="instagram | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
-
+</br>
 
 ### 1.2. Languages and Tools:
 
