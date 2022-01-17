@@ -1,9 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ArijMansour&repo=ArijMansour&countColorcountColor)
 ### 0.1. Hello World, I'm Arij 👋 aka GIGI ⭐:
 
-<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="200" height="80" />
 
-## 1. I'm a Software Engineer Intern, AI passionate, Geek !!
+## 1. I'm a Software Engineer Intern
 - ✍ You can find my achievements here.
 - 🌱 I’m currently learning JavaScript and its Frameworks.
 - 👯 I’m looking to collaborate on open source.
