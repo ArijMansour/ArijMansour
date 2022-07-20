@@ -1,22 +1,10 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ArijMansour&repo=ArijMansour&countColorcountColor)
-### 0.1. Hello World, I'm Arij 👋 aka GIGI ⭐:
+### 0.1. Hello World, I'm Arij 👋 :
 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="400" height="200" />
 
 ## 1. I'm a Software Engineer Intern
-- ✍ You can find my achievements here.
-- 🌱 I’m currently learning JavaScript and its Frameworks.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything.
-- ⚡  I speak 4 languages ( English, French, Arabic, Russian).
 
-
-### 1.1. Chat with me, I am kinda cool 🙂 :
-
-[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-
-
-[<img align="left" alt="instagram | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 </br>
 
