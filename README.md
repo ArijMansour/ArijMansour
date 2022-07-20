@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ArijMansour&repo=ArijMansour&countColorcountColor)
 ### 0.1. Hello World, I'm Arij 👋 :
 
-<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="600" height="200" />
 
 ## 1. I'm a Software Engineer Intern
 
