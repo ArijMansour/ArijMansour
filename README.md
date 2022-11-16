@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/suchismita004/suchismita004/blob/main/suchismita%20gif.gif?raw=true" width="600" height="300" />
 
-## 1. I'm a Software Engineer Intern
+## 1. I'm a Software DevOps Engineer 
 
 
 </br>
